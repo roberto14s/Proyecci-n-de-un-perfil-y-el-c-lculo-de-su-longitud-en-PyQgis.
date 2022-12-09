@@ -31,6 +31,41 @@ Un perfil topográfico es un corte o sección a lo largo de una línea dibujada 
 
 ## **2.Desarrollo**
 
+**Hablemos de Historia**
+
+Hace cuatro mil años, los conceptos de matemáticas eran básicos, sin embargo, los egipcios fueron capaces de lograr maravillas. Utilizaron los predecesores de los instrumentos topográficos modernos para realizar muchas hazañas, desde canales hasta pirámides. Un equipo de topógrafos del antiguo Egipto utilizaba cuerdas de medición, plomadas, instrumentos de observación e instrumentos de nivelación. 
+
+Los primeros registros históricos del uso de la topografía datan del año 1400 antes de Cristo cuando el faraón egipcio Sesostris, ordenó la delimitación de terrenos para la recaudación de impuestos y las inundaciones del río Nilo arrastraron unos linderos de estas. (Flores, 2022) En el antiguo Egipto fue necesario emplear el uso de la topografía con el fin de recaudar impuestos, cómo es bien sabido para que una sociedad funcione correctamente es necesario recaudar impuestos de sus ciudadanos con el fin de proveer o de satisfacer las necesidades de estos, otro uso que se le dio a la topografía en el antiguo Egipto fue de delimitar los terrenos de sus ciudadanos lo cual en tiempos modernos se le puede llamar como el levantamiento topográfico.
+
+Los antiguos topógrafos desarrollan una serie de actividades cómo hoy en día las hacemos, estos topógrafos se le designaron el nombre de los “estiras cuerdas” quienes utilizaron cuerdas con patrones determinados cada cierta distancia para medir y redefinir los límites estas cuerdas corresponden a unidades de longitud convencionales, como el denominado “codo”. bueno cada nudo estaba separado en la cuerda por equivalencia de 5 codos, por la inexactitud que esta media representada se estableció que hacia el año 3000 antes de Cristo el codo real como patrón de medida convencional, tal vez basado en la medida del codo de algún faraón cuya dimensión era de 52.3cm. (Flores, 2022) cuando los topógrafos antiguos realizaban un levantamiento topográfico de un terreno no era exacto ya que variaba la longitud del codo por eso se estableció y la medida de cada nudo debe de estar separado a 52.3 cm con el único fin de mantener una precisión y una exactitud de medida a lo cual esto facilita realizar dicho levantamiento.
+
+Principales personajes y sus aportaciones hacia la topografía. 
+
+Thales de Mileto: fue un filósofo, astrónomo y matemático griego nació en Mileto en el año 624 a. de C. de acuerdo con el pensador griego Apolodoro, y murió a la edad de 78 años durante la quincuagésima octava olimpíada (548-545 a. de C) Tales es el padre tradicional de la matemática griega. Tales era un hombre esencialmente práctico comerciante, hábil en ingeniería, astrónomo, filósofo, estadista, geómetra. Como lo que ahora llamaríamos ingeniero, estuvo dirigiendo obras hidráulicas y se dice que desvió el curso del río Halis mediante la construcción de diques. (Gómez, 22) 
+Como sabemos las aportaciones de este personaje son demasiadas y una gran parte de su conocimiento fue llevado al área matemática para lo cual hoy en día es usada por ejemplo el teorema de Thales de Mileto el cual establece lo siguiente.
+
+![image](https://user-images.githubusercontent.com/119511302/206811628-702bd385-a99b-498b-8aa6-91c2034a5f3e.png)
+
+Figura #0. Thales de Mileto fuente: Google.
+
+“Si dos rectas r y r’ se cortan por un sistema de paralelas, los segmentos determinados por los puntos de intersección sobre una de ellas son proporcionales a los determinados por los puntos correspondientes en la otra”. Thales de Mileto. 
+
+En la materia de topografía se hace el constante uso de la geometría la cual es una rama de las matemáticas que se dedica al estudio de las figuras en un plano o espacio. Así, analiza sus características y medidas como el perímetro, área y volumen. Esta disciplina se encarga de estudiar, por ejemplo, los polígonos (que son figuras bidimensionales constituidas por varios segmentos consecutivos no colineales, formando un espacio cerrado) (Westreicher, 2022) los cuales constantemente en esta área son usados para determinar una superficie de un lote donde se levantará topográficamente.
+
+Como sabemos la geometría es una ciencia con muchas aplicaciones y sirve de base para otros campos de estudio como la física, la geografía, la arquitectura y la topografía (estudio de la superficie terrestre). Por ejemplo, nos sirve para calcular las medidas de determinados espacios o construcciones. (Westreicher, 2022) como ingenieros estamos constantemente involucrados en saber cómo funciona el levantamiento topográfico de un predio ya que tenemos que tomar en cuenta la forma geométrica del polígono para saber qué tipo de método para determinar las distancias se usarán las cuales en este proyecto usaremos los métodos de ligas, radiaciones y el de diagonales cada uno de estos tiene su uso correspondiente.
+
+**¿Matemáticas en topografía?**
+
+La topografía se basa, en primer lugar, en algunas ramas de la matemática, tales la trigonometría y la geometría. Un levantamiento topográfico constituye un conjunto de operaciones que tiene como objetivo conocer la posición relativa de los puntos sobre la tierra en base a su longitud latitud y elevación (x,y,z). Para este estudio operacional, la topografía se dividió en altimetría, planimetría. Trigonometría. 
+
+La trigonometría en un principio fue el arte de calcular la información perdida mediante simple cálculo. Dada la suficiente información para definir un triángulo, permite calcular el resto de las dimensiones y de ángulos. La topografía es el estudio de los métodos que tiene por objeto la representación gráfica de la superficie de la Tierra, con sus formas y detalles, tanto naturales como artificiales. En ella la trigonometría es el pan de cada día, ya que para tomar mediciones con la estación total es necesaria para hacer «levantamiento de un terreno» y representarlo gráficamente en un plano con una escala determinada. 
+
+La trigonometría es una base fundamental ya que sin ella sería imposible conocer distancias, coordenadas, medidas angulares, etc. El sistema de representación adoptado por la topografía muestra los diferentes puntos del espacio tomando un plano comparación, sustituyendo la figura en el espacio de tres dimensiones (x, y, z) por un plano de tan solo dos (x, y). Pero para que el sistema sea reversible se precisa añadir sobre esta representación un tercer elemento z o altura del punto sobre el plano de comparación (cota). Geometría. 
+
+La geometría es la base de la topografía ya que se toman distancias horizontales y ángulos para determinar tanto la ubicación horizontal de un objeto como la elevación con respecto a una horizontal imaginaria del mismo objeto.
+
+
+
 **Nivelación de perfil**
 
 ![](http://4.bp.blogspot.com/_oKSDCrhgRhk/TE9KOhus3NI/AAAAAAAAADY/kanzAg_9XkY/s1600/nivel_-_desnivel.jpg)
