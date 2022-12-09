@@ -7,7 +7,7 @@ Facultad de Ingeniería Civi
 
 **3°B**
 
-Profesor:Sebastián González Zepeda
+Profesor: Sebastián González Zepeda
 
 **Roberto Alejandro Navarro Obispo** (1) Colima - Coquimatlán Kilómetro 9, Jardines del Llano, 28400 Coquimatlán, Col., 20186496, <rnavarro@ucol.mx>
 
@@ -63,6 +63,37 @@ La trigonometría en un principio fue el arte de calcular la información perdid
 La trigonometría es una base fundamental ya que sin ella sería imposible conocer distancias, coordenadas, medidas angulares, etc. El sistema de representación adoptado por la topografía muestra los diferentes puntos del espacio tomando un plano comparación, sustituyendo la figura en el espacio de tres dimensiones (x, y, z) por un plano de tan solo dos (x, y). Pero para que el sistema sea reversible se precisa añadir sobre esta representación un tercer elemento z o altura del punto sobre el plano de comparación (cota). Geometría. 
 
 La geometría es la base de la topografía ya que se toman distancias horizontales y ángulos para determinar tanto la ubicación horizontal de un objeto como la elevación con respecto a una horizontal imaginaria del mismo objeto.
+
+**Planteamiento del problema**
+
+Una problemática que se presentará al realizar el levantamiento topográfico es el error de nivelación debido al tomar las mediciones de manera incorrecta; recordando la teoría de los errores, dictamina lo siguiente: 
+
+1. Ninguna medida es exacta. 
+
+2. Toda medida contiene errores. 
+
+3. Nunca se conocerá el valor verdadero de una dimensión. 
+
+4. El error exacto que hay en una medida siempre será desconocido. Las equivocaciones se detectan mediante la comprobación sistemática de todo trabajo y se eliminan haciendo parte de este o bien todo de él. 
+
+En toda medición aparecen tres tipos de errores: 
+
+a) Errores naturales. 
+
+b) Errores instrumentales. 
+
+c) Errores personales. 
+
+Tipos de errores Los errores que contienen las medidas son de dos tipos: 
+
+1) Errores sistemáticos. 
+
+2) Errores accidentales. 
+
+Los errores sistemáticos, se comportan de acuerdo con leyes físicas susceptibles de ser modelados matemáticamente, por lo que su magnitud puede calcularse y su efecto eliminarse. 
+
+Los errores accidentales son los que quedan después de haberse eliminado las equivocaciones y los errores sistemáticos. Son ocasionados por factores que quedan fuera del control del observador, obedecen a las leyes de la probabilidad y se conocen también con el nombre de errores aleatorios. 
+Cuando se detecta una equivocación, generalmente es mejor repetir la medición. Sin embargo, si se dispone de un número suficiente de medidas de la cantidad que sí están de acuerdo entre sí, puede descartarse el valor que sea divergente del resultado. Debe considerarse el efecto que ocasionaría el valor antes de descartarlo.
 
 
 
