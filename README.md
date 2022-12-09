@@ -9,9 +9,7 @@ Facultad de Ingeniería Civi
 
 Profesor:Sebastián González Zepeda
 
-**Daniela Nohemí González Preciado (1), Roberto Alejandro Navarro Obispo (2), Vanessa Belén Martínez Hernández (3)**
-
-(1) Colima - Coquimatlán Kilómetro 9, Jardines del Llano, 28400 Coquimatlán, Col., 20186496, <dgonzalez17@ucol.mx>. (2) 20172919, <rnavarro0@ucol.mx>. (3) 20177585, <vmartinez6@ucol.mx> 
+**Roberto Alejandro Navarro Obispo** (1) Colima - Coquimatlán Kilómetro 9, Jardines del Llano, 28400 Coquimatlán, Col., 20186496, <rnavarro@ucol.mx>
 
 
 ## **Resumen Ejecutivo**
