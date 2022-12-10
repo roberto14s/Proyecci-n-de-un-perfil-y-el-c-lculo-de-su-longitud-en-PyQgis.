@@ -288,6 +288,19 @@ Concluimos que el uso de la tecnología para la realización de cálculos es imp
 
 Recordemos que la nivelación geométrica o nivelación diferencial es el procedimiento topográfico que nos permite determinar el desnivel entre dos puntos mediante el uso del nivel y la mira vertical. La nivelación geométrica mide la diferencia de nivel entre dos puntos a partir de la visual horizontal lanzada desde el nivel hacia las miras colocadas en dichos puntos. Cuando los puntos a nivelar están dentro de los límites del campo topográfico altimétrico y el desnivel entre dichos puntos se puede estimar con una sola estación, la nivelación recibe el nombre de nivelación geométrica simple. Cuando los puntos están separados a una distancia mayor que el límite del campo topográfico, o que el alcance de la visual, es necesario la colocación de estaciones intermedias y se dice que es una nivelación compuesta.
 
+¿Cuál es la importancia de la trigonometría?
+
+La aplicación  de las funciones trigonométricas en la física, astronomía, telecomunicaciones, náutica, ingeniería, cartografía, entre otros ámbitos, es lo que las dota de relevancia, pues permiten calcular distancias con precisión sin tener que, necesariamente, recorrerlas.
+
+Sabiendo esto, la importancia de la trigonometría radica en las diversas aplicaciones que tiene para, por ejemplo:
+
+• Calcular la distancia entre dos puntos, de los cuales uno, o incluso ambos, son inaccesibles.
+
+• Calcular de forma precisa distancias y ángulos de inclinación, siendo de gran utilidad para la ingeniería civil.
+
+• Calcular la altura de un punto en pie que puede ser, también, inaccesible.
+
+
 ## **6. Referencias**
 
 • Gamez W. (2013). Texto Básico Auto informativo de topografía general. Universidad Nacional Agraria.
